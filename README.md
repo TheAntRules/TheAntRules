@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Anant Krishna, a rising junior at Thomas Jefferson High School for Science and Technology planning to enter a CS field.
+
 <!--
 **TheAntRules/TheAntRules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
